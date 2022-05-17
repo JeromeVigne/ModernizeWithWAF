@@ -27,4 +27,4 @@ This repo contains the material, demos and links related to Modernizing Applicat
 
 ### Get in touch with us
 
-[Nagendra Mishr](mailto:nagendra.mishr@microsoft.com) & [Jerome Vigne](mailto:jerome.vigne@micrsoft.com)
+[Nagendra Mishr](mailto:nagendra.mishr@microsoft.com) & [Jerome Vigne](mailto:jerome.vigne@microsoft.com)

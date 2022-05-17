@@ -25,5 +25,6 @@ This repo contains the material, demos and links related to Modernizing Applicat
 - [Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/)
 
 
+### Get in touch with us
 
-
+[Nagendra Mishr](mailto:nagendra.mishr@microsoft.com) & [Jerome Vigne](mailto:jerome.vigne@micrsoft.com)
